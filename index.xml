@@ -1,151 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My test hugo site </title>
-    <link>http://ekudinov.github.io/</link>
+    <title>My test hugo site</title>
+    <link>https://ekudinov.github.io/</link>
+    <description>Recent content on My test hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>2017-06-12 18:08:13 &#43;0700 &#43;07</updated>
-
+    <lastBuildDate>Mon, 12 Jun 2017 18:08:13 +0700</lastBuildDate>
     
-      
-        <item>
-          <title>asss</title>
-          <link>http://ekudinov.github.io/post/asss/</link>
-          <pubDate>Mon, 12 Jun 2017 18:08:13 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/asss/</guid>
-          <description>&lt;p&gt;lkfjgsdhga
-alkgl;ksdfjgkl&amp;rsquo;sdg
-kljfgkljsdklfgjkdjfg
-lkjdfgkljsdfkgjdkjg
-Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
-
-&lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
-
-&lt;p&gt;If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.&lt;/p&gt;
-
-&lt;p&gt;You enable a sugar script by uncommenting the feature name in the ENABLE list in the rc file.&lt;/p&gt;
-</description>
-        </item>
-      
+	<atom:link href="https://ekudinov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-      
-        <item>
-          <title>zlkdfjgksdg</title>
-          <link>http://ekudinov.github.io/post/zlkdfjgksdg/</link>
-          <pubDate>Mon, 12 Jun 2017 18:08:08 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/zlkdfjgksdg/</guid>
-          <description>&lt;p&gt;Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
-
-&lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
-
-&lt;p&gt;If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.&lt;/p&gt;
-
-&lt;p&gt;You enable a sugar script by uncommenting the feature name in the ENABLE list in the rc file.&lt;/p&gt;
-</description>
-        </item>
-      
     
+    <item>
+      <title>asss</title>
+      <link>https://ekudinov.github.io/post/asss/</link>
+      <pubDate>Mon, 12 Jun 2017 18:08:13 +0700</pubDate>
       
-        <item>
-          <title>gggg</title>
-          <link>http://ekudinov.github.io/post/gggg/</link>
-          <pubDate>Mon, 12 Jun 2017 18:08:04 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/gggg/</guid>
-          <description>&lt;p&gt;Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
-
-&lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
-
-&lt;p&gt;If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.&lt;/p&gt;
-
-&lt;p&gt;You enable a sugar script by uncommenting the feature name in the ENABLE list in the rc file.&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/asss/</guid>
+      <description>lkfjgsdhga alkgl;ksdfjgkl&amp;rsquo;sdg kljfgkljsdklfgjkdjfg lkjdfgkljsdfkgjdkjg Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.
+That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.
+If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.</description>
+    </item>
     
+    <item>
+      <title>zlkdfjgksdg</title>
+      <link>https://ekudinov.github.io/post/zlkdfjgksdg/</link>
+      <pubDate>Mon, 12 Jun 2017 18:08:08 +0700</pubDate>
       
-        <item>
-          <title>qqqqq</title>
-          <link>http://ekudinov.github.io/post/qqqqq/</link>
-          <pubDate>Mon, 12 Jun 2017 18:08:01 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/qqqqq/</guid>
-          <description>&lt;p&gt;Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
-
-&lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
-
-&lt;p&gt;If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.&lt;/p&gt;
-
-&lt;p&gt;You enable a sugar script by uncommenting the feature name in the ENABLE list in the rc file.&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/zlkdfjgksdg/</guid>
+      <description>Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.
+That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.
+If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.</description>
+    </item>
     
+    <item>
+      <title>gggg</title>
+      <link>https://ekudinov.github.io/post/gggg/</link>
+      <pubDate>Mon, 12 Jun 2017 18:08:04 +0700</pubDate>
       
-        <item>
-          <title>want</title>
-          <link>http://ekudinov.github.io/post/want/</link>
-          <pubDate>Mon, 12 Jun 2017 18:07:37 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/want/</guid>
-          <description></description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/gggg/</guid>
+      <description>Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.
+That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.
+If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.</description>
+    </item>
     
+    <item>
+      <title>qqqqq</title>
+      <link>https://ekudinov.github.io/post/qqqqq/</link>
+      <pubDate>Mon, 12 Jun 2017 18:08:01 +0700</pubDate>
       
-        <item>
-          <title>about</title>
-          <link>http://ekudinov.github.io/post/about/</link>
-          <pubDate>Mon, 12 Jun 2017 18:00:53 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/about/</guid>
-          <description>&lt;p&gt;This is about page
-JJJJJJJJJJJJJJJJJJJJJJJJJJJJ
-kjlfjgkfjkgjfkgjkf&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/qqqqq/</guid>
+      <description>Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.
+That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.
+If you want to write your own sugar scripts, please read the &amp;ldquo;your own sugar&amp;rdquo; section in dev-notes first then email me.</description>
+    </item>
     
+    <item>
+      <title>want</title>
+      <link>https://ekudinov.github.io/post/want/</link>
+      <pubDate>Mon, 12 Jun 2017 18:07:37 +0700</pubDate>
       
-        <item>
-          <title>avat</title>
-          <link>http://ekudinov.github.io/post/avat/</link>
-          <pubDate>Mon, 12 Jun 2017 05:04:14 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/avat/</guid>
-          <description>&lt;p&gt;Text for avat image&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/want/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>about</title>
+      <link>https://ekudinov.github.io/post/about/</link>
+      <pubDate>Mon, 12 Jun 2017 18:00:53 +0700</pubDate>
       
-        <item>
-          <title>first</title>
-          <link>http://ekudinov.github.io/post/first/</link>
-          <pubDate>Mon, 12 Jun 2017 04:49:12 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/first/</guid>
-          <description>&lt;p&gt;This is first article&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/about/</guid>
+      <description>This is about page JJJJJJJJJJJJJJJJJJJJJJJJJJJJ kjlfjgkfjkgjfkgjkf</description>
+    </item>
     
+    <item>
+      <title>avat</title>
+      <link>https://ekudinov.github.io/post/avat/</link>
+      <pubDate>Mon, 12 Jun 2017 05:04:14 +0700</pubDate>
       
-        <item>
-          <title>good to great</title>
-          <link>http://ekudinov.github.io/post/good-to-great/</link>
-          <pubDate>Mon, 12 Jun 2017 04:45:20 &#43;07</pubDate>
-          <author></author>
-          <guid>http://ekudinov.github.io/post/good-to-great/</guid>
-          <description>&lt;p&gt;Hello from site hugo generated!!!&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://ekudinov.github.io/post/avat/</guid>
+      <description>Text for avat image</description>
+    </item>
     
-
+    <item>
+      <title>first</title>
+      <link>https://ekudinov.github.io/post/first/</link>
+      <pubDate>Mon, 12 Jun 2017 04:49:12 +0700</pubDate>
+      
+      <guid>https://ekudinov.github.io/post/first/</guid>
+      <description>This is first article</description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>https://ekudinov.github.io/post/good-to-great/</link>
+      <pubDate>Mon, 12 Jun 2017 04:45:20 +0700</pubDate>
+      
+      <guid>https://ekudinov.github.io/post/good-to-great/</guid>
+      <description>Hello from site hugo generated!!!</description>
+    </item>
+    
   </channel>
 </rss>
