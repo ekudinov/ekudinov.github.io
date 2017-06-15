@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My test hugo site </title>
-    <link>http://ekudinov.gihub.io/</link>
+    <link>http://ekudinov.github.io/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2017</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>asss</title>
-          <link>http://ekudinov.gihub.io/post/asss/</link>
+          <link>http://ekudinov.github.io/post/asss/</link>
           <pubDate>Mon, 12 Jun 2017 18:08:13 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/asss/</guid>
+          <guid>http://ekudinov.github.io/post/asss/</guid>
           <description>&lt;p&gt;lkfjgsdhga
 alkgl;ksdfjgkl&amp;rsquo;sdg
 kljfgkljsdklfgjkdjfg
@@ -34,10 +34,10 @@ Sugar scripts help you change the perceived syntax of the conf language. The bas
       
         <item>
           <title>zlkdfjgksdg</title>
-          <link>http://ekudinov.gihub.io/post/zlkdfjgksdg/</link>
+          <link>http://ekudinov.github.io/post/zlkdfjgksdg/</link>
           <pubDate>Mon, 12 Jun 2017 18:08:08 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/zlkdfjgksdg/</guid>
+          <guid>http://ekudinov.github.io/post/zlkdfjgksdg/</guid>
           <description>&lt;p&gt;Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
 
 &lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
@@ -52,10 +52,10 @@ Sugar scripts help you change the perceived syntax of the conf language. The bas
       
         <item>
           <title>gggg</title>
-          <link>http://ekudinov.gihub.io/post/gggg/</link>
+          <link>http://ekudinov.github.io/post/gggg/</link>
           <pubDate>Mon, 12 Jun 2017 18:08:04 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/gggg/</guid>
+          <guid>http://ekudinov.github.io/post/gggg/</guid>
           <description>&lt;p&gt;Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
 
 &lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
@@ -70,10 +70,10 @@ Sugar scripts help you change the perceived syntax of the conf language. The bas
       
         <item>
           <title>qqqqq</title>
-          <link>http://ekudinov.gihub.io/post/qqqqq/</link>
+          <link>http://ekudinov.github.io/post/qqqqq/</link>
           <pubDate>Mon, 12 Jun 2017 18:08:01 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/qqqqq/</guid>
+          <guid>http://ekudinov.github.io/post/qqqqq/</guid>
           <description>&lt;p&gt;Sugar scripts help you change the perceived syntax of the conf language. The base syntax of the language is very simple, so sugar scripts take something else and convert it into that.&lt;/p&gt;
 
 &lt;p&gt;That way, the admin sees additional features (like allowing continuation lines), while the parser in the core gitolite engine does not change.&lt;/p&gt;
@@ -88,10 +88,10 @@ Sugar scripts help you change the perceived syntax of the conf language. The bas
       
         <item>
           <title>want</title>
-          <link>http://ekudinov.gihub.io/post/want/</link>
+          <link>http://ekudinov.github.io/post/want/</link>
           <pubDate>Mon, 12 Jun 2017 18:07:37 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/want/</guid>
+          <guid>http://ekudinov.github.io/post/want/</guid>
           <description></description>
         </item>
       
@@ -99,10 +99,10 @@ Sugar scripts help you change the perceived syntax of the conf language. The bas
       
         <item>
           <title>about</title>
-          <link>http://ekudinov.gihub.io/post/about/</link>
+          <link>http://ekudinov.github.io/post/about/</link>
           <pubDate>Mon, 12 Jun 2017 18:00:53 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/about/</guid>
+          <guid>http://ekudinov.github.io/post/about/</guid>
           <description>&lt;p&gt;This is about page
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 kjlfjgkfjkgjfkgjkf&lt;/p&gt;
@@ -113,10 +113,10 @@ kjlfjgkfjkgjfkgjkf&lt;/p&gt;
       
         <item>
           <title>avat</title>
-          <link>http://ekudinov.gihub.io/post/avat/</link>
+          <link>http://ekudinov.github.io/post/avat/</link>
           <pubDate>Mon, 12 Jun 2017 05:04:14 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/avat/</guid>
+          <guid>http://ekudinov.github.io/post/avat/</guid>
           <description>&lt;p&gt;Text for avat image&lt;/p&gt;
 </description>
         </item>
@@ -125,10 +125,10 @@ kjlfjgkfjkgjfkgjkf&lt;/p&gt;
       
         <item>
           <title>first</title>
-          <link>http://ekudinov.gihub.io/post/first/</link>
+          <link>http://ekudinov.github.io/post/first/</link>
           <pubDate>Mon, 12 Jun 2017 04:49:12 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/first/</guid>
+          <guid>http://ekudinov.github.io/post/first/</guid>
           <description>&lt;p&gt;This is first article&lt;/p&gt;
 </description>
         </item>
@@ -137,10 +137,10 @@ kjlfjgkfjkgjfkgjkf&lt;/p&gt;
       
         <item>
           <title>good to great</title>
-          <link>http://ekudinov.gihub.io/post/good-to-great/</link>
+          <link>http://ekudinov.github.io/post/good-to-great/</link>
           <pubDate>Mon, 12 Jun 2017 04:45:20 &#43;07</pubDate>
           <author></author>
-          <guid>http://ekudinov.gihub.io/post/good-to-great/</guid>
+          <guid>http://ekudinov.github.io/post/good-to-great/</guid>
           <description>&lt;p&gt;Hello from site hugo generated!!!&lt;/p&gt;
 </description>
         </item>

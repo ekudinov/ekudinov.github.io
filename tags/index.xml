@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My test hugo site </title>
-    <link>http://ekudinov.gihub.io/tags/</link>
+    <link>http://ekudinov.github.io/tags/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2017</rights>
